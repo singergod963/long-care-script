@@ -1,4 +1,4 @@
-var courses = [10000066,10000067,10000061,10000064,10000063];
+var courses = [10000067,10000064];
 var now = 0;
 var repeatTime = 1000 * 60 * 4.1;
 setInterval(function() {
